@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Priyadarshi</h1>
 <h3 align="center">I am a passionate developer with expertise in web development and Android app development. With a
     strong foundation in Python, Java, C, and C++, I love creating innovative solutions to real-world challenges.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="Coding" height="300" width="280" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=ajay-priyadarshi&label=Profile%20views&color=0e75b6&style=flat"
